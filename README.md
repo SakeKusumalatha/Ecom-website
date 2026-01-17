@@ -59,3 +59,4 @@ Cart & checkout functionality
 
 
 **ecom-website-phi.vercel.app**
+https://ecom-website-phi.vercel.app/
